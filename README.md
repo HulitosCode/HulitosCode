@@ -18,6 +18,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    
     <img align="center" alt="html5" src="https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
